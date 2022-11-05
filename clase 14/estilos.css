@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container{
+    width: 90%;
+    margin: 0px auto;
+}
+header h1{
+    background: #039ee6;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    line-height: 200px;
+}
