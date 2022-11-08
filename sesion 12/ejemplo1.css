@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(23, 29, 23, 0.808);
+    color: rgb(27, 213, 213);
+}
+h1{
+    text-align: center;
+    text-shadow: rgb(84, 39, 189);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: rgb(63, 22, 102);
+    background-color: rgb(16, 16, 17);
+    text-align: center;
+}
+#txtNumero{
+    color: blue;
+    background-color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:justify ;
+}
+h2{
+    color: rgb(153, 200, 240);
+    background-color: rgb(10, 21, 21);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:right ;
+}
+h3{
+    color: rgb(59, 4, 210);
+    background-color: rgb(11, 9, 29);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:right ;
+}
+h4{
+    color: rgb(59, 4, 210);
+    background-color: rgb(11, 9, 29);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:right ;
+}
