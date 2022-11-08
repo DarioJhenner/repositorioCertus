@@ -1,0 +1,245 @@
+body{
+    background-image:url(https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1208&q=80) ;
+}
+table {
+    width: 100%;
+    border: 1px solid rgb(227, 27, 27);
+    caption-side: bottom;
+    background-image: url("https://images.unsplash.com/photo-1462332420958-a05d1e002413?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1807&q=80");
+}
+
+th,
+td {
+    width: 20%;
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid royalblue;
+    border-collapse: collapse;
+    padding: 0.5em;
+
+}
+
+caption {
+    color: rgb(217, 216, 221);
+    padding: 0.5em;
+    text-align:justify;
+    vertical-align:middle;
+}
+
+td.codigo {
+    background-color: chartreuse;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+td.codigo button {
+    background-color: aqua;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    color: rgb(217, 216, 221);
+    background-color: rgb(11, 9, 29);
+    padding: 0.8em;
+    text-align: center;
+    text-shadow: rgb(84, 39, 189);
+    font-family:fantasy;
+}    
+h2 {
+    font-size: 25px;
+    color:rgb(217, 216, 221);
+    background-color: rgb(0, 0, 0);
+    padding: 0.8em;
+    text-align: center;
+    text-shadow: rgb(84, 39, 189);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+td.codigo1 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(30, 56, 3);
+    padding: 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+td.codigo11 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(42, 82, 3);
+    padding: 0.5em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+td.codigo12 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(71, 153, 28);
+    padding: 0.5em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+td.codigo13 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(100, 189, 52);
+    padding: 0.5em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+td.codigo14 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(130, 243, 138);
+    padding: 0.5em;
+    font-family:'Times New Roman', Times, serif;
+}
+td.codigo2 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(56, 39, 3);
+    padding: 1em;
+    font-family:'Times New Roman', Times, serif;
+}
+td.codigo21 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(76, 39, 3);;
+    padding: 0.5em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+td.codigo22 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(96, 39, 3);
+    padding: 0.5em;
+    font-family:Arial, Helvetica, sans-serif;
+}
+td.codigo23 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(116, 39, 3);
+    padding: 0.5em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+td.codigo24 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(136, 39, 3);
+    padding: 0.5em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+td.codigo {
+    background-color: chartreuse;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+td.codigo button {
+    background-color: aqua;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    color: rgb(217, 216, 221);
+    background-color: rgb(11, 9, 29);
+    padding: 0.8em;
+    text-align: center;
+    text-shadow: rgb(84, 39, 189);
+    font-family:fantasy;
+}    
+h2 {
+    font-size: 25px;
+    color:rgb(217, 216, 221);
+    background-color: rgb(0, 0, 0);
+    padding: 0.8em;
+    text-align: center;
+    text-shadow: rgb(84, 39, 189);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+td.codigo31 {
+    text-align: center;
+    vertical-align:middle;
+    background-color:rgb(82, 70, 3);
+    padding: 0.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+td.codigo32 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(82, 70, 3);
+    padding: 0.5em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+td.codigo32 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(82, 70, 3);
+    padding: 0.5em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+td.codigo33 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(82, 70, 3);
+    padding: 0.5em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+td.codigo34 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(82, 70, 3);
+    padding: 0.5em;
+    font-family:'Times New Roman', Times, serif;
+}
+td.codigo41 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(82, 70, 3);
+    padding: 0.5em;
+    font-family:'Times New Roman', Times, serif;
+}
+td.codigo42 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(82, 70, 3);
+    padding: 0.5em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+td.codigo43 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(82, 70, 3);
+    padding: 0.5em;
+    font-family:Arial, Helvetica, sans-serif;
+}
+td.codigo44 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(82, 70, 3);
+    padding: 0.5em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+td.codigo51 {
+    text-align: center;
+    vertical-align:middle;
+    background-color:rgb(82, 70, 3);
+    padding: 0.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+td.codigo52 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(82, 70, 3);
+    padding: 0.5em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+td.codigo53 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(82, 70, 3);
+    padding: 0.5em;
+    font-family:'Times New Roman', Times, serif;
+}
+td.codigo54 {
+    text-align: center;
+    vertical-align:middle;
+    background-color: rgb(82, 70, 3);
+    padding: 0.5em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
